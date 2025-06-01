@@ -3,7 +3,6 @@
 **Location:** Delhi, India  
 **Email:** [awasthi.vanshika21@gmail.com](mailto:awasthi.vanshika21@gmail.com)  
 **LinkedIn:** [linkedin.com/in/vanshikaawasthi](https://www.linkedin.com/in/vanshikaawasthi)  
-**Portfolio:** [vanshika-awasthi](https://vanshika-awasthi)  
 
 ---
 
