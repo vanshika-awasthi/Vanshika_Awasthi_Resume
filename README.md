@@ -57,12 +57,14 @@ Tech Stack: TensorFlow/Keras (Transfer Learning - VGG16), OpenCV
 
 ## Skills
 
-- Programming: Python, Java (DSA)  
-- Web: HTML, CSS (Tailwind CSS)  
-- Databases: MySQL, MongoDB  
-- Cloud & Tools: AWS  
-- Others: Data Structures & Algorithms, Machine Learning
-
+- Data Structures and Algorithms (DSA)
+- Programming Languages: Java, Python, SQL
+- Web Development: HTML, Tailwind CSS, TypeScript, React.js, Next.js
+- Backend: Express.js, Node.js, Flask
+- Database: MySQL, MongoDB
+- DevOps/Cloud: AWS
+- Tools/Other: Git, GitHub, VS Code, Jupyter
+  
 ---
 
 ## Languages
