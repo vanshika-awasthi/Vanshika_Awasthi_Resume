@@ -10,7 +10,7 @@
 
 **VIT Bhopal University** — Bachelor of Technology in Computer Science and Engineering  
 *Bhopal, Madhya Pradesh*  
-Cumulative GPA: 8.56
+Cumulative GPA: 8.59
 Graduation Date: July 2026
 
 **RPS Public School (CBSE Board)** — Higher Secondary Education (Class XII)  
