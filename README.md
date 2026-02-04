@@ -1,7 +1,7 @@
 # Vanshika Awasthi - Resume
 
 **Location:** Delhi, India  
-**Email:** [awasthi.vanshika21@gmail.com](mailto:vanshikaawasthi21.work@gmail.com)  
+**Email:** [vanshikaawasthi21.work@gmail.com](mailto:vanshikaawasthi21.work@gmail.com)  
 **LinkedIn:** [linkedin.com/in/vanshikaawasthi](https://www.linkedin.com/in/vanshikaawasthi)  
 
 ---
