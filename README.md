@@ -10,7 +10,7 @@
 
 **VIT Bhopal University** — Bachelor of Technology in Computer Science and Engineering  
 *Bhopal, Madhya Pradesh*  
-Cumulative GPA: 8.59
+Cumulative GPA: 8.62
 Graduation Date: July 2026
 
 **RPS Public School (CBSE Board)** — Higher Secondary Education (Class XII)  
@@ -62,14 +62,13 @@ Tech Stack: TensorFlow/Keras (Transfer Learning - VGG16), OpenCV
 - **Frameworks & Libraries:** Node.js, Express.js, Flask, Next.js  
 - **APIs & Web Services:** REST APIs, FastAPI  
 - **Databases:** MySQL, MongoDB  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes  
+- **Cloud & DevOps:** AWS, Microsoft Azure, Docker
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ## 🤖 Machine Learning Tools & Frameworks
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
-- **Deep Learning:** TensorFlow  
-- **Computer Vision:** OpenCV
-  
+- **Deep Learning:** TensorFlow
+    
 ---
 
 ## Languages
@@ -85,7 +84,7 @@ Tech Stack: TensorFlow/Keras (Transfer Learning - VGG16), OpenCV
 - Simulink Onramp Certificate  
 - The Bits and Bytes of Computer Networking (Google)  
 - Gen AI with Watson (IBM)  
-- SQL on Oracle Cloud (Oracle)  
+- SQL on Oracle Cloud (Oracle) 
 
 ---
 
